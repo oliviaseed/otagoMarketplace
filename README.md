@@ -20,4 +20,6 @@ You can run the project by downloading the Project directory as a zip file (http
 
 You may need to change the permissions on the script to make it executable using `chmod u+x run.sh`.
 
+This project is also hosted on https://otagomarketplace.online
+
 ### [Requirements](./requirements.md)
